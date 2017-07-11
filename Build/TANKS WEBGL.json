@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TANKS WEBGL.data.unityweb",
+"asmCodeUrl": "TANKS WEBGL.asm.code.unityweb",
+"asmMemoryUrl": "TANKS WEBGL.asm.memory.unityweb",
+"asmFrameworkUrl": "TANKS WEBGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
